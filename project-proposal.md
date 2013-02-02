@@ -5,7 +5,7 @@ Mark Bahnman
 
 ###NAME OF GAME/PROJECT
 
-Description of what project is
+Description of what the project is.
 
 ####Criteria
 1. Game runs without any major bugs
